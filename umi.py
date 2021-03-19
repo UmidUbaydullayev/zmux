@@ -1,0 +1,1 @@
+print("im Umidjan Ubaydullayev")
